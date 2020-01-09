@@ -1,6 +1,10 @@
 # Snake_game
 Simple python version of the classic Snake game
 
+# Modules Needed
+pygame is needed to run this game.<br>
+To install it open the command line and enter: pip install pygame
+
 # Controls
 Use L,R,UP and down arrows to move snake around screen
 
@@ -11,4 +15,4 @@ Use L,R,UP and down arrows to move snake around screen
 •Each time snake eats fruit score is update and cheing sound is played.
 
 # The display
-![Smart Mirror](https://techcrunch.com/wp-content/uploads/2018/01/giphy1.gif?w=730&crop=1)
+![python Snake game](https://imgur.com/gallery/RFJ2Gz5)
