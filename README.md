@@ -16,3 +16,10 @@ Use L,R,UP and down arrows to move snake around screen
 
 # The Game 
 ![python_Snake_game](https://media.giphy.com/media/cPCKlcKluiglFxYFze/giphy.gif)
+
+# Credit
+FoolBoyMedia
+https://freesound.org/people/FoolBoyMedia/sounds/320232/
+
+Basic snake script
+http://programarcadegames.com/python_examples/f.php?file=snake.py
