@@ -14,5 +14,5 @@ Use L,R,UP and down arrows to move snake around screen
 •Possible for snake to pass through walls and appear at far side by uncommenting code.<br>
 •Each time snake eats fruit score is update and cheing sound is played.
 
-# The display
+# The Game 
 ![python_Snake_game](https://media.giphy.com/media/cPCKlcKluiglFxYFze/giphy.gif)
