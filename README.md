@@ -15,4 +15,4 @@ Use L,R,UP and down arrows to move snake around screen
 •Each time snake eats fruit score is update and cheing sound is played.
 
 # The display
-![python Snake game](https://i.imgur.com/kx8DmoI.gifv)
+![python_Snake_game](https://media.giphy.com/media/cPCKlcKluiglFxYFze/giphy.gif)
