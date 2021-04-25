@@ -12,7 +12,7 @@ Use L,R,UP and down arrows to move snake around screen
 •Snake will die if it hits the side.<br>
 •Snake will die if it bites it's tail.<br>
 •Possible for snake to pass through walls and appear at far side by uncommenting code.<br>
-•Each time snake eats fruit score is update and cheing sound is played.
+•Each time snake eats fruit score is update and chewing sound is played.
 
 # The Game 
 ![python_Snake_game](https://media.giphy.com/media/cPCKlcKluiglFxYFze/giphy.gif)
